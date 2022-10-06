@@ -1,0 +1,5 @@
+Item,[book,Harry Potter1,5.3,22]
+Item,[CD,Harry Potter2,12.35,2]
+Item,[DvD,Harry Potter3,9.99,312]
+Member,[free,84320]
+Member,[premium,84321,true]
